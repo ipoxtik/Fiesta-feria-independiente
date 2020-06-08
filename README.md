@@ -33,6 +33,11 @@ Buscando dentro de ambos objetivos mantener el valor y la interacción humana, c
 
 ## 3. Proceso UX
 ### 3.1 Descubrimiento e investigación
+**El reto**
+**Scope Canvas**
+**Contexto actual**
+**Hallazgos por entrevistas**
+**Historias de usuario**
 #### 3.1.1 Entrevista con el cliente
 
 Se realizaron varias entrevistas con nuestras clientas (Malu y Elo) las cuales tuvieron total apertura a resolver nuestras dudas, implementar más ideas y desarrollar a la par de nosotras este proyecto, sin olvidar que también recurrimos a ellas para obtener feedback e informar paso a paso como evolucionó este proyecto el cual, lejos de ser solo de ellas se convirtió en algo de todas nosotras.
@@ -70,6 +75,11 @@ Dentro de las tres entrevistas realizadas obtuvimos datos y citas sumamente impo
 
 ## 4. Entregables
 
+### Diseño de la aplicación para desktop
+
+### Presentación
+
 ## 5. Conclusiones
 
-
+_Proyecto realizado el día 16/06/2020 Por Andrea Aguilar, Andrea Blasco, Sonia Cortez, Verónica Álvarez, Jesica Trejo y Franccesca Luna,_
+_Laboratoria, UX CDMX009-LIM012._
