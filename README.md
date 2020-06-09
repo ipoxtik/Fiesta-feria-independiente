@@ -44,9 +44,9 @@ Tenemos fé en este proyecto, a pesar de la situación generada a partir del COV
 **Historias de usuario:**
 |Cómo|Quiero|Para|
 |:----|:---|:---:|
-| Dueñx del producto | Ingresar a mi plataforma | Administrar la información mostrada sobre Fiesta, hacer publicaciones de anuncios |
+| Dueñx del producto | Ingresar a mi plataforma | Gestionar información, hacer publicaciones de anuncios |
 | Dueñx del producto | Ingresar a mi plataforma | Administrar las temáticas: Color, imagenes, mapa |
-| Dueñx del producto | Ingresar a mi plataforma | Administrar a los artesanos |
+| Dueñx del producto | Ingresar a mi plataforma | Guiar a los artesanos |
 | Artesanx nuevx | Postularme | Formar parte de Fiesta! |
 | Artesanx nuevx | Iniciar sesión | Entrar a la plataforma |
 | Artesanx nuevx | Ingresar | Crear su perfil/stand |
