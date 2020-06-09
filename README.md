@@ -33,11 +33,27 @@ Buscando dentro de ambos objetivos mantener el valor y la interacción humana, c
 
 ## 3. Proceso UX
 ### 3.1 Descubrimiento e investigación
+
 **El reto**
-**Scope Canvas**
+"las expectativas que tenemos si este proyecto funciona, es poder llevarlo a cabo y hacer algo chevere", se planea mantener la experiencia de Fiesta! digital lo más fiel al proyecto presencial, ayudar al artesano y obtener una plataforma dinámica y alegre.
+El objetivo general es promover el arte independiente y el comercio nacional, cubrir al máximo nivel posible las necesidades de los artesanos y los visitantes, trabajar con métodos de pago ya existentes, lograr participación en el mercado empresarial y lograr sustentabilidad en la plataforma.
+
 **Contexto actual**
-**Hallazgos por entrevistas**
+Tenemos fé en este proyecto, a pesar de la situación generada a partir del COVID-19 se ha logrado sostener la venta de productos artesanales en varias partes del país, incluso varios artesanos comentaron que sus envíos han aumentado a partir de la coyuntura. Se busca continuar operaciones, seguir obtentiendo ingresos y apoyar a los pequeños empresarios.
+
 **Historias de usuario**
+|Cómo|Quiero|Para|
+|:----|:---|:---:|
+| Dueñx del producto | Ingresar a mi plataforma | Administrar la información mostrada sobre Fiesta, hacer publicaciones de anuncios |
+| Dueñx del producto | Ingresar a mi plataforma | Administrar las temáticas: Color, imagenes, mapa |
+| Dueñx del producto | Ingresar a mi plataforma | Administrar a los artesanos |
+| Artesanx nuevx | Postularme | Formar parte de Fiesta! |
+| Artesanx nuevx | Iniciar sesión | Entrar a la plataforma |
+| Artesanx nuevx | Ingresar | Crear su perfil/stand |
+| Visitante | Ver catálogo | Comprar algun producto |
+| Visitante | Ingresar al Fiesta! | Conocer nuevos eventos |
+| Visitante | Contactar a artesano | Conocer más productos, resolver dudas |
+
 #### 3.1.1 Entrevista con el cliente
 
 Se realizaron varias entrevistas con nuestras clientas (Malu y Elo) las cuales tuvieron total apertura a resolver nuestras dudas, implementar más ideas y desarrollar a la par de nosotras este proyecto, sin olvidar que también recurrimos a ellas para obtener feedback e informar paso a paso como evolucionó este proyecto el cual, lejos de ser solo de ellas se convirtió en algo de todas nosotras.
@@ -52,7 +68,6 @@ Dentro de las tres entrevistas realizadas obtuvimos datos y citas sumamente impo
 - A pesar de mantenerse en un contexto digital les gustaría acoplar las temáticas a las festividades de la temporada, tomando por temática inicial la fiesta patria para junio y una fiesta ilustrada.
 - Se espera una mayor cantidad de emprendedores en digital, sin embargo el catálogo de artesanos se irá rotando conforme a la temática.
 - Se mantendrán las mismas reglas: no productos importados, no second hand, evitaremos alimentos y bebidas.
-- "las expectativas que tenemos si este proyecto funciona es poder llevarlo a cabo y hacer algo chévere"
 - Se plantea tener un publico empresarial.
 - Usar métodos de pago existentes.
 - Solicita definir la experiencia del usuario tanto para visitantes como para artesanos. 
