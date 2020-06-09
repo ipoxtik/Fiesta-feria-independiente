@@ -111,5 +111,6 @@ Se realizaron once entrevistas en total, seis a visitantes de Fiesta! presencial
 
 ## 5. Conclusiones
 
-_Proyecto realizado el día 16/06/2020 Por Andrea Aguilar, Andrea Blasco, Sonia Cortez, Verónica Álvarez, Jesica Trejo y Franccesca Luna,_
+_Proyecto realizado el día 16/06/2020 Por Andrea Aguilar, Sonia Cortez y Franccesca Luna._
+
 _Laboratoria, UX CDMX009-LIM012._
