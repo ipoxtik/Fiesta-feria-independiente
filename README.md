@@ -34,14 +34,14 @@ Buscando dentro de ambos objetivos mantener el valor y la interacción humana, c
 ## 3. Proceso UX
 ### 3.1 Descubrimiento e investigación
 
-**El reto**
+**El reto:**
 "las expectativas que tenemos si este proyecto funciona, es poder llevarlo a cabo y hacer algo chevere", se planea mantener la experiencia de Fiesta! digital lo más fiel al proyecto presencial, ayudar al artesano y obtener una plataforma dinámica y alegre.
 El objetivo general es promover el arte independiente y el comercio nacional, cubrir al máximo nivel posible las necesidades de los artesanos y los visitantes, trabajar con métodos de pago ya existentes, lograr participación en el mercado empresarial y lograr sustentabilidad en la plataforma.
 
-**Contexto actual**
+**Contexto actual:**
 Tenemos fé en este proyecto, a pesar de la situación generada a partir del COVID-19 se ha logrado sostener la venta de productos artesanales en varias partes del país, incluso varios artesanos comentaron que sus envíos han aumentado a partir de la coyuntura. Se busca continuar operaciones, seguir obtentiendo ingresos y apoyar a los pequeños empresarios.
 
-**Historias de usuario**
+**Historias de usuario:**
 |Cómo|Quiero|Para|
 |:----|:---|:---:|
 | Dueñx del producto | Ingresar a mi plataforma | Administrar la información mostrada sobre Fiesta, hacer publicaciones de anuncios |
@@ -57,7 +57,7 @@ Tenemos fé en este proyecto, a pesar de la situación generada a partir del COV
 #### 3.1.1 Entrevista con el cliente
 
 Se realizaron varias entrevistas con nuestras clientas (Malu y Elo) las cuales tuvieron total apertura a resolver nuestras dudas, implementar más ideas y desarrollar a la par de nosotras este proyecto, sin olvidar que también recurrimos a ellas para obtener feedback e informar paso a paso como evolucionó este proyecto el cual, lejos de ser solo de ellas se convirtió en algo de todas nosotras.
-Dentro de las tres entrevistas realizadas obtuvimos datos y citas sumamente importantes que nos ayudaron a fortalecer y mejorar nuestro prototiopo y el proceso.
+Dentro de las tres entrevistas realizadas obtuvimos datos y citas sumamente importantes que nos ayudaron a fortalecer y mejorar nuestro prototipo y el proceso.
 
 - Se busca que los artesanos sepan que lo que hacen es valorado en Fiesta! 
 - Mantener comunicación con artesanos de la manera más eficiente posible, priorizando redes sociales o correo.
@@ -74,7 +74,20 @@ Dentro de las tres entrevistas realizadas obtuvimos datos y citas sumamente impo
 
 #### 3.1.2 Entrevistas con usuarios
 
+Se realizaron once entrevistas en total, seis a visitantes de Fiesta! presencial y cinco artesanos, todos nos brindaron información valiosa para comprender mejor el contexto, saber que es lo que más aprecian de este proyecto y que les gustaría ver para poder seguir manteniendo la escencia lo más auténtica posible a lo que era en su modalidad original. Entre todos los hallazgos encontrados estos fueron los más relevantes.
 
+  - No se encuentran muchas ferias en Internet.
+  - Encuentras artículos únicos.
+  - Los precios responden a la calidad de lo que venden.
+  - Se suele buscar a los vendedores en Instagram, siguen su actividad y se les compra directamente.
+  - La mayoria de los usuarios se tuvieron que adaptar a las compras en linea a partir de la pandemia, realizando todo tipo de compras online, desde productos básicos hasta gustos peculiares.
+  - Se aprecia mucho la historia sobre el producto, es un factor importante para cerrar la venta.
+  - En Fiesta! resaltan el valor del artesano.
+  - Existe una conexión muy cercana entre usuarios y artesanos.
+  - El proceso de aceptación de artesanos es muy accesible, sencilla e intuitiva.
+  - Las ferias son un punto de venta importante, en algunos casos se visualiza hasta un 300% de aumento de ventas, ganancias de los /S 1300 a /S 1500.
+  - Se pide priorizar el apoyo a las marcas independientes.
+  - Los artesanos disfrutan de mostrar el proceso de sus productos.
 
 #### 3.1.3 Benchmark
 
