@@ -1,7 +1,7 @@
 # ux-consultancy
 Consultoria UX para empresas en tiempos de COVID-19
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Logo.jpg" height="250">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Logo.jpg" height="500">
 
 * [1. Introducción](#1-Introducción)
 * [2. Objetivos del Proyecto](#2-objetivos-del-proyecto)
@@ -91,7 +91,7 @@ Se realizaron once entrevistas en total, seis a visitantes de Fiesta! presencial
 
 #### 3.1.3 Benchmark
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Benchmark.jpg" width="400">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Benchmark.jpg" width="900">
 
 ### 3.2 Síntesis y definición
 
