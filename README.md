@@ -45,13 +45,15 @@ Buscando dentro de ambos objetivos mantener el valor y la interacción humana, c
 El objetivo general es promover el arte independiente y el comercio nacional, cubrir al máximo nivel posible las necesidades de los artesanos y los visitantes, trabajar con métodos de pago ya existentes, lograr participación en el mercado empresarial y lograr sustentabilidad en la plataforma.
 
 **Modelo de negocio**
+
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Modelo%20de%20negocio.jpg" width="500">
 
 **Contexto actual:**
 Tenemos fé en este proyecto, a pesar de la situación generada a partir del COVID-19 se ha logrado sostener la venta de productos artesanales en varias partes del país, incluso varios artesanos comentaron que sus envíos han aumentado a partir de la coyuntura. Se busca continuar operaciones, seguir obtentiendo ingresos y apoyar a los pequeños empresarios.
 
 **Scope canvas**
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Scope%20canvas.jpg" width="600">
+
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Scope%20canvas.jpg">
 
 **Historias de usuario:**
 |Cómo|Quiero|Para|
@@ -103,7 +105,7 @@ Se realizaron once entrevistas en total, seis a visitantes de Fiesta! presencial
 
 #### 3.1.3 Benchmark
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/benchmark%20fiesta%20_page-0001.jpg" width="600">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/benchmark%20fiesta%20_page-0001.jpg">
 
 ### 3.2 Síntesis y definición
 
@@ -115,21 +117,21 @@ Se realizaron once entrevistas en total, seis a visitantes de Fiesta! presencial
 
 *Artesano*
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/User%20persona%20Artesano.png" width="500">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/User%20persona%20Artesano.png">
 
 *Visitante*
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Journey%20map%20Visitante.png" width="500">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/User%20persona%20Visitante.png">
 
 #### 3.2.3 Customer journey map
 
 *Artesano*
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Journey%20map%20Artesano.png" width="600">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Journey%20map%20Artesano.png">
 
 *Visitante*
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Journey%20map%20Visitante.png" width="600">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Journey%20map%20Visitante.png">
 
 ### 3.3 Ideación, prototipado y user testing
 
