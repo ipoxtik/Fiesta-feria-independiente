@@ -1,7 +1,7 @@
 # ux-consultancy
 Consultoria UX para empresas en tiempos de COVID-19
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/logo.png" height="500">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/logo.png" width="500">
 
 * [1. Introducción](#1-Introducción)
 * [2. Objetivos del Proyecto](#2-objetivos-del-proyecto)
@@ -24,7 +24,7 @@ Fiesta! Feria independiente, nace en junio de 2019 como un proyecto en apoyo a a
 ***"Hacer algo a mano es un acto de valentía"*** es una de las tantas frases que se escucharon a lo largo de este proyecto, donde en conjunto con nuestras clientas buscábamos llevar a un contexto digital el proyecto de feria de artesanías buscando por este medio, un espacio donde el arte peruano pudiera mantenerse vigente a pesar de las circunstancias presentadas a partir de la contingencia por COVID-19.
 El valor agregado de Fiesta! es que apoya en su totalidad a artesanos locales, cuyos productos sean hechos a mano, evitando alimentos y bebidas, productos importados y second hand. Cuenta con varias categorías de productos y por cada evento de Fiesta! se realizaba una temática específica, buscando así conectar más con los clientes (tanto artesanos, como visitantes, ya que nuestras PO consideran fielmente que el artesano es el cliente inicial)
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Presencial.jpg" height="500">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Presencial.jpg" width="500">
 
 ## 2. Objetivos del proyecto
 
@@ -33,22 +33,25 @@ El objetivo inicialmente planteado consiste en desarrollar una plataforma digita
     2. Lograr equilibrio económico entre el artesano y Fiesta digital
 Buscando dentro de ambos objetivos mantener el valor y la interacción humana, como apoyar la sostenibilidad de este proyecto y apoyar al artesano en lo máximo posible, dando pie a una potencial evolución de este proyecto a un catálogo digital.
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/publicidad.jpg" height="450">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/publicidad.jpg" width="450">
 
 ## 3. Proceso UX
 ### 3.1 Descubrimiento e investigación
 
-<img src="" height="500">
+
 
 **El reto:**
 "las expectativas que tenemos si este proyecto funciona, es poder llevarlo a cabo y hacer algo chevere", se planea mantener la experiencia de Fiesta! digital lo más fiel al proyecto presencial, ayudar al artesano y obtener una plataforma dinámica y alegre.
 El objetivo general es promover el arte independiente y el comercio nacional, cubrir al máximo nivel posible las necesidades de los artesanos y los visitantes, trabajar con métodos de pago ya existentes, lograr participación en el mercado empresarial y lograr sustentabilidad en la plataforma.
 
+**Modelo de negocio**
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Modelo%20de%20negocio.jpg" width="500">
+
 **Contexto actual:**
 Tenemos fé en este proyecto, a pesar de la situación generada a partir del COVID-19 se ha logrado sostener la venta de productos artesanales en varias partes del país, incluso varios artesanos comentaron que sus envíos han aumentado a partir de la coyuntura. Se busca continuar operaciones, seguir obtentiendo ingresos y apoyar a los pequeños empresarios.
 
 **Scope canvas**
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Scope%20canvas.jpg" height="600">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Scope%20canvas.jpg" width="600">
 
 **Historias de usuario:**
 |Cómo|Quiero|Para|
@@ -100,33 +103,33 @@ Se realizaron once entrevistas en total, seis a visitantes de Fiesta! presencial
 
 #### 3.1.3 Benchmark
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/benchmark%20fiesta%20_page-0001.jpg" height="500">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/benchmark%20fiesta%20_page-0001.jpg" width="600">
 
 ### 3.2 Síntesis y definición
 
 #### 3.2.1 Affinity map
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Afinitty%20map.jpg" height="500">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Afinitty%20map.jpg" width="500">
 
 #### 3.2.2 User persona
 
 *Artesano*
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/User%20persona%20Artesano.png" height="500">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/User%20persona%20Artesano.png" width="500">
 
 *Visitante*
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Journey%20map%20Visitante.png" height="500">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Journey%20map%20Visitante.png" width="500">
 
 #### 3.2.3 Customer journey map
 
 *Artesano*
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Journey%20map%20Artesano.png" height="500">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Journey%20map%20Artesano.png" width="600">
 
 *Visitante*
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Journey%20map%20Visitante.png" height="500">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Journey%20map%20Visitante.png" width="600">
 
 ### 3.3 Ideación, prototipado y user testing
 
