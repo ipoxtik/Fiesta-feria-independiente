@@ -135,13 +135,13 @@ Se realizaron once entrevistas en total, seis a visitantes de Fiesta! presencial
 
 ### 3.3 Ideación, prototipado y user testing
 
-Al momento de realizar nuestro diseño planteamos como mejor opción una página web responsiva dónde los usuarios pudieran ingresar, registrarse y tener su propio seguimiento, pero al mismo tiempo se busca mantener la comunicación entre el equipo de Fiesta! así que se planea notificar vía correo electrónico cualquier punto importante sobre su proceso de compra (para usuarios) o de aceptación (para artesanos), también se busca trabajar con métodos de pago ya existentes, un delivery que cubra las necesidades de tiempo/eficacia/seguridad con todos los artesanos y también por medio de otras propuestas integradas se plantea mantener la comunidad y comunicaicón entre los visitantes-artesanos y equipo Fiesta!-artesanos.
+Al momento de realizar nuestro diseño planteamos como mejor opción una página web responsiva dónde los usuarios pudieran ingresar, registrarse y tener su propio seguimiento, pero al mismo tiempo se busca mantener la comunicación entre el equipo de Fiesta! así que se planea notificar vía correo electrónico cualquier punto importante sobre su proceso de compra (para usuarios) o de aceptación (para artesanos), también se busca trabajar con métodos de pago ya existentes, un delivery que cubra las necesidades de tiempo/eficacia/seguridad con todos los artesanos y también por medio de otras propuestas integradas se plantea mantener la comunidad y comunicación entre los visitantes-artesanos y equipo Fiesta!-artesanos.
 
-*Árbol de contenidos*
+***Árbol de contenidos***
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/arbolcontenido.jpg" width="750">
 
-*user flow*
+***user flow***
 
 
 **Artesanos**
@@ -152,7 +152,7 @@ Al momento de realizar nuestro diseño planteamos como mejor opción una página
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/userflow%20us.jpg" width="600">
 
-**Wireframe**
+***Wireframe***
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Wireframe.png">
 
