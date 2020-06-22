@@ -115,27 +115,40 @@ Se realizaron once entrevistas en total, seis a visitantes de Fiesta! presencial
 
 #### 3.2.2 User persona
 
-*Artesano*
+**Artesano**
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/User%20persona%20Artesano.png">
 
-*Visitante*
+**Visitante**
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/User%20persona%20Visitante.png">
 
 #### 3.2.3 Customer journey map
 
-*Artesano*
+**Artesano**
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Journey%20map%20Artesano.png">
 
-*Visitante*
+**Visitante**
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Journey%20map%20Visitante.png">
 
 ### 3.3 Ideación, prototipado y user testing
 
 Al momento de realizar nuestro diseño planteamos como mejor opción una página web responsiva dónde los usuarios pudieran ingresar, registrarse y tener su propio seguimiento, pero al mismo tiempo se busca mantener la comunicación entre el equipo de Fiesta! así que se planea notificar vía correo electrónico cualquier punto importante sobre su proceso de compra (para usuarios) o de aceptación (para artesanos), también se busca trabajar con métodos de pago ya existentes, un delivery que cubra las necesidades de tiempo/eficacia/seguridad con todos los artesanos y también por medio de otras propuestas integradas se plantea mantener la comunidad y comunicación entre los visitantes-artesanos y equipo Fiesta!-artesanos.
+
+***Insights***
+
+"En Fiesta! celebaramos la valentía de crear"
+"Fiesta! se queda en ti, porque lo bueno se vive más de una vez"
+
+Ambos insight fueron desarrollados a partir de la información recabada con los entervistas. Nos concentramos en verificar cuales eran los puntos fuertes de Fiesta! que se podrían mantener dentro de la plataforma, aunque también visualizamos las áreas de oportunidad, desarrollando así dos ideas principales, basadas en artistas y visitantes.
+LOS BUENOS MOMENTOS NUNCA SE OLVIDAN, porque fiesta está cargada de interacción y amistad, todos se sienten como comunidad y recuerdan lo compartido con mucha alegría. Porque lo primero que expresan es lo bien que la pasaron, los amigos que hicieron, dejando en un segundo plano lo económico. Y esa es la esencia real de fiesta.
+EL VALOR HUMANO ES MÁS IMPORTANTE QUE EL ECONÓMICO, porque para Fiesta cada artesano es un héroe, un ser humano valioso que a pesar de las dificultades busca salir adelante. Porque los artesanos perciben el cariño y se sienten orgullosos de quienes son. Porque la principal motivación de Fiesta, es apoyar a sus artesanos.
+
+***Storytelling***
+
+Hola! Somos Fiesta y lo que más nos emociona es celebrar tu talento, el arte, la vida!.  Que seas feliz es muy importante para nosotras, por eso este espacio es para ti, para que sigamos compartiendo los buenos momentos, el amor por lo hecho a mano, las historias de pasión detrás de tu emprendimiento y las ganas de que la Fiesta continúe.
 
 ***Árbol de contenidos***
 
@@ -161,9 +174,21 @@ Al momento de realizar nuestro diseño planteamos como mejor opción una página
 
 ### Diseño de la aplicación para desktop
 
+Puedes visualizar nuestro prototipo en alta fidelidad en este [link]()
+
 ### Presentación
 
+En esta [presentación]() conocerás nuestro proceso de diseño y objetivos de aprendizaje.
+
+### Vídeo presentación de prototipo
+
+¿Quieres ver como funciona nuestra web app por medio de nuestros lineamientos? En este [vídeo]() te mostramos nuestra idea.
+
 ## 5. Conclusiones
+
+***Sobre obejtivos de aprendizaje***
+
+
 
 _Proyecto realizado el día 16/06/2020 Por Andrea Aguilar, Sonia Cortez y Franccesca Luna._
 
