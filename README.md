@@ -20,18 +20,18 @@ Consultoria UX para empresas en tiempos de COVID-19
 
 ## 1. Introducción
 
-Fiesta! Feria independiente, nace en junio de 2019 como un proyecto en apoyo a artesanos locales de Perú con la finalidad de fomentar el consumo de la cultura, ayudar a emprendedores que realizan artesanías a mantener su negocio a flote, incrementar ventas y tener un espacio donde puedan celebrar la comunión de artesanos en un sentido personal.
+Fiesta! Feria independiente, nace en junio de 2019 como un proyecto en apoyo a artistas locales de Perú con la finalidad de fomentar el consumo de la cultura, ayudar a emprendedores que realizan piezas para mantener su negocio a flote, incrementar ventas y tener un espacio donde puedan celebrar la comunión en un sentido personal.
 ***"Hacer algo a mano es un acto de valentía"*** es una de las tantas frases que se escucharon a lo largo de este proyecto, donde en conjunto con nuestras clientas buscábamos llevar a un contexto digital el proyecto de feria de artesanías buscando por este medio, un espacio donde el arte peruano pudiera mantenerse vigente a pesar de las circunstancias presentadas a partir de la contingencia por COVID-19.
-El valor agregado de Fiesta! es que apoya en su totalidad a artesanos locales, cuyos productos sean hechos a mano, evitando alimentos y bebidas, productos importados y second hand. Cuenta con varias categorías de productos y por cada evento de Fiesta! se realizaba una temática específica, buscando así conectar más con los clientes (tanto artesanos, como visitantes, ya que nuestras PO consideran fielmente que el artesano es el cliente inicial)
+El valor agregado de Fiesta! es que apoya en su totalidad a artistas locales, cuyas piezas sean a mano; evitando alimentos y bebidas, productos importados y second hand. Cuenta con varias categorías de productos y por cada evento de Fiesta! se realizaba una temática específica, buscando así conectar más con los clientes (tanto artistas, como visitantes, ya que nuestras PO consideran fielmente que el artista es el cliente inicial)
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Presencial.jpg" width="500">
 
 ## 2. Objetivos del proyecto
 
-El objetivo inicialmente planteado consiste en desarrollar una plataforma digital donde los artesanos pudieran vender sus productos en idea de una feria virtual, la cual tendría temática, se mantendría en espera de la llegada de visitantes y pudiese mantenerse la escencia original del proyecto presencial, posteriormente y con base a la investigación realizada se lograron plantear dos objetivos específicos:
+El objetivo inicialmente planteado consiste en desarrollar una plataforma digital donde los artistas pudieran vender sus piezas en idea de una feria virtual, la cual tendría temática, se mantendría en espera de la llegada de visitantes y pudiese mantenerse la escencia original del proyecto presencial, posteriormente y con base a la investigación realizada se lograron plantear dos objetivos específicos:
     1. Conservar la experiencia de Fiesta! presencial de igual o mejor manera en Fiesta! digital.
-    2. Lograr equilibrio económico entre el artesano y Fiesta digital
-Buscando dentro de ambos objetivos mantener el valor y la interacción humana, como apoyar la sostenibilidad de este proyecto y apoyar al artesano en lo máximo posible, dando pie a una potencial evolución de este proyecto a un catálogo digital.
+    2. Lograr equilibrio económico entre el artista y Fiesta digital
+Buscando dentro de ambos objetivos mantener el valor y la interacción humana, como apoyar la sostenibilidad de este proyecto y apoyar al artista en lo máximo posible, dando pie a una potencial evolución de este proyecto a un catálogo digital.
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/publicidad.jpg" width="450">
 
@@ -41,15 +41,15 @@ Buscando dentro de ambos objetivos mantener el valor y la interacción humana, c
 
 
 **El reto:**
-"las expectativas que tenemos si este proyecto funciona, es poder llevarlo a cabo y hacer algo chevere", se planea mantener la experiencia de Fiesta! digital lo más fiel al proyecto presencial, ayudar al artesano y obtener una plataforma dinámica y alegre.
-El objetivo general es promover el arte independiente y el comercio nacional, cubrir al máximo nivel posible las necesidades de los artesanos y los visitantes, trabajar con métodos de pago ya existentes, lograr participación en el mercado empresarial y lograr sustentabilidad en la plataforma.
+***"las expectativas que tenemos si este proyecto funciona, es poder llevarlo a cabo y hacer algo chevere"***, se planea mantener la experiencia de Fiesta! digital lo más fiel al proyecto presencial, ayudar al artista en difusión, proceso de venta y obtener una plataforma dinámica y alegre.
+El objetivo general es promover el arte independiente y el comercio nacional, cubrir al máximo nivel posible las necesidades de los artistas y los visitantes, trabajar con métodos de pago ya existentes, lograr participación en el mercado empresarial y lograr sustentabilidad en la plataforma.
 
 **Modelo de negocio**
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Modelo%20de%20negocio.jpg" width="500">
 
 **Contexto actual:**
-Tenemos fé en este proyecto, a pesar de la situación generada a partir del COVID-19 se ha logrado sostener la venta de productos artesanales en varias partes del país, incluso varios artesanos comentaron que sus envíos han aumentado a partir de la coyuntura. Se busca continuar operaciones, seguir obtentiendo ingresos y apoyar a los pequeños empresarios.
+Tenemos fé en este proyecto a pesar de la situación generada a partir del COVID-19 se ha logrado sostener la venta de productos artesanales en varias partes del país, incluso varios artistas comentaron que sus envíos han aumentado a partir de la coyuntura. Se busca continuar operaciones, seguir obtentiendo ingresos y apoyar a los pequeños empresarios.
 
 **Scope canvas**
 
@@ -115,7 +115,7 @@ Se realizaron once entrevistas en total, seis a visitantes de Fiesta! presencial
 
 #### 3.2.2 User persona
 
-**Artesano**
+**Artista**
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/User%20persona%20Artesano.png">
 
@@ -125,7 +125,7 @@ Se realizaron once entrevistas en total, seis a visitantes de Fiesta! presencial
 
 #### 3.2.3 Customer journey map
 
-**Artesano**
+**Artista**
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Journey%20map%20Artesano.png">
 
@@ -135,20 +135,20 @@ Se realizaron once entrevistas en total, seis a visitantes de Fiesta! presencial
 
 ### 3.3 Ideación, prototipado y user testing
 
-Al momento de realizar nuestro diseño planteamos como mejor opción una página web responsiva dónde los usuarios pudieran ingresar, registrarse y tener su propio seguimiento, pero al mismo tiempo se busca mantener la comunicación entre el equipo de Fiesta! así que se planea notificar vía correo electrónico cualquier punto importante sobre su proceso de compra (para usuarios) o de aceptación (para artesanos), también se busca trabajar con métodos de pago ya existentes, un delivery que cubra las necesidades de tiempo/eficacia/seguridad con todos los artesanos y también por medio de otras propuestas integradas se plantea mantener la comunidad y comunicación entre los visitantes-artesanos y equipo Fiesta!-artesanos.
+Al momento de realizar nuestro diseño, planteamos como mejor opción una página web responsiva dónde los usuarios pudieran ingresar, registrarse y tener su propio seguimiento pero al mismo tiempo se busca mantener la comunicación entre el equipo de Fiesta! así que se planea notificar vía correo electrónico cualquier punto importante sobre su proceso de compra (para usuarios) o de aceptación (para artistas), también se busca trabajar con métodos de pago ya existentes, un delivery que cubra las necesidades de tiempo/eficacia/seguridad con todos los artistas y también por medio de otras propuestas integradas se plantea mantener la comunidad y comunicación entre los visitantes-artistas y equipo Fiesta!-artistas.
 
 **Insights**
 
 "En Fiesta! celebaramos la valentía de crear"
 "Fiesta! se queda en ti, porque lo bueno se vive más de una vez"
 
-Ambos insight fueron desarrollados a partir de la información recabada con los entervistas. Nos concentramos en verificar cuales eran los puntos fuertes de Fiesta! que se podrían mantener dentro de la plataforma, aunque también visualizamos las áreas de oportunidad, desarrollando así dos ideas principales, basadas en artistas y visitantes.
-LOS BUENOS MOMENTOS NUNCA SE OLVIDAN, porque fiesta está cargada de interacción y amistad, todos se sienten como comunidad y recuerdan lo compartido con mucha alegría. Porque lo primero que expresan es lo bien que la pasaron, los amigos que hicieron, dejando en un segundo plano lo económico. Y esa es la esencia real de fiesta.
-EL VALOR HUMANO ES MÁS IMPORTANTE QUE EL ECONÓMICO, porque para Fiesta cada artesano es un héroe, un ser humano valioso que a pesar de las dificultades busca salir adelante. Porque los artesanos perciben el cariño y se sienten orgullosos de quienes son. Porque la principal motivación de Fiesta, es apoyar a sus artesanos.
+Ambos insights fueron desarrollados a partir de la información recabada con los entrevistas. Nos concentramos en verificar cuales eran los puntos fuertes de Fiesta! que se podrían mantener dentro de la plataforma aunque también visualizamos las áreas de oportunidad, desarrollando así dos ideas principales, basadas en artistas y visitantes.
+LOS BUENOS MOMENTOS NUNCA SE OLVIDAN, porque fiesta está cargada de interacción y amistad, todos se sienten como comunidad y recuerdan lo compartido con mucha alegría. Porque lo primero que expresan es lo bien que la pasaron, los amigos hechos, dejando en un segundo plano lo económico. Y esa es la esencia real de fiesta.
+EL VALOR HUMANO ES MÁS IMPORTANTE QUE EL ECONÓMICO, porque para Fiesta! cada artesano es un héroe, un ser humano valioso que a pesar de las dificultades busca salir adelante. Porque los artistas perciben el cariño y se sienten orgullosos de quienes son. Porque la principal motivación de Fiesta, es apoyar a sus artistas.
 
 **Storytelling**
 
-Hola! Somos Fiesta y lo que más nos emociona es celebrar tu talento, el arte, la vida!.  Que seas feliz es muy importante para nosotras, por eso este espacio es para ti, para que sigamos compartiendo los buenos momentos, el amor por lo hecho a mano, las historias de pasión detrás de tu emprendimiento y las ganas de que la Fiesta continúe.
+Hola! Somos Fiesta y lo que más nos emociona es celebrar tu talento, el arte, la vida! Que seas feliz es muy importante para nosotras, por eso este espacio es para ti, para que sigamos compartiendo los buenos momentos, el amor por lo hecho a mano, las historias de pasión detrás de tu emprendimiento y las ganas de que la Fiesta continúe.
 
 **Árbol de contenidos**
 
@@ -171,12 +171,33 @@ Hola! Somos Fiesta y lo que más nos emociona es celebrar tu talento, el arte, l
 
 **Muckup**
 
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Muckup.png">
+
+## USER TESTING.
+
+Se realizó testeo de usabilidad en maze y se realizaron tres testeos por medio de Zoom, donde obtuvimos los siguientes hallazgos:
+
+- Tipos de letra diferentes,
+- Colores no viables.
+- Organización de catálogo adecuada.
+- Meter más espacio entre elementos.
+- Les gustan los lives
+- Dar prioridad a cursos y talleres.
+- Desea interactuar con talleristas en los lives.
+- Iniciar sesión también con facebook.
+- Es intuitiva y fácil de usar
+- Ordenar menu y priorizar elementos
+- Poner FAQ's en la parte de footer
+- Revisar colores
+- Agregar carrito de compras.
+
+
 
 ## 4. Entregables
 
 ### Diseño de la aplicación para desktop
 
-Puedes visualizar nuestro prototipo en alta fidelidad en este [link]()
+Puedes visualizar nuestro prototipo en alta fidelidad en este [link](https://www.figma.com/proto/jZw4EdHcE1ihJe2miqPfme/UX-Consultancy?node-id=1%3A4)
 
 ### Presentación
 
@@ -190,8 +211,13 @@ En esta [presentación]() conocerás nuestro proceso de diseño y objetivos de a
 
 **Sobre obejtivos de aprendizaje**
 
+**Sobre proyecto en general**
 
+Decidimos anexar una opción para realizar podcast y por este medio nuestros artistas pudieran conectarse con su comunidad.
+Delivery
+Método de pago
 
+***
 _Proyecto realizado el día 16/06/2020 Por Andrea Aguilar, Sonia Cortez y Franccesca Luna._
 
 _Laboratoria, UX CDMX009-LIM012._
