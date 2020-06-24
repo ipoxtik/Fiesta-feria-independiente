@@ -14,7 +14,8 @@ Consultoria UX para empresas en tiempos de COVID-19
     * [3.2.1 Affinity map](####Affinity-map)
     * [3.2.2 User persona](####User-persona)
     * [3.2.3 Customer journey map](####Customer-journey-map)
-  * [3.3 Ideación, prototipado y user testing](###3.3-Ideación,-prototipado-y-user-testing)
+  * [3.3 Ideación y prototipado](###3.3-Ideación-y-prototipado)
+  * [3.4 User testing](###3.4-User-testing)
 * [4 Entregables](###4-Entregables)
 * [5. Conclusiones](#5-conclusiones)
 
@@ -111,7 +112,7 @@ Se realizaron once entrevistas en total, seis a visitantes de Fiesta! presencial
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Journey%20map%20Visitante.png">
 
-### 3.3 Ideación, prototipado y user testing
+### 3.3 Ideación y prototipado
 
 Al momento de realizar nuestro diseño, planteamos como mejor opción una página web responsiva dónde los usuarios pudieran ingresar, registrarse y tener su propio seguimiento pero al mismo tiempo se busca mantener la comunicación entre el equipo de Fiesta! así que se planea notificar vía correo electrónico cualquier punto importante sobre su proceso de compra (para usuarios) o de aceptación (para artistas), también se busca trabajar con métodos de pago ya existentes, un delivery que cubra las necesidades de tiempo/eficacia/seguridad con todos los artistas y también por medio de otras propuestas integradas se plantea mantener la comunidad y comunicación entre los visitantes-artistas y equipo Fiesta!-artistas.
 
@@ -150,7 +151,7 @@ Hola! Somos Fiesta y lo que más nos emociona es celebrar tu talento, el arte, l
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Muckup.png">
 
-#### User testing
+### 3.4 User testing
 
 Se realizó testeo de usabilidad en maze y se realizaron seis testeos por medio de Zoom, donde obtuvimos los siguientes hallazgos:
 
@@ -167,6 +168,18 @@ Se realizó testeo de usabilidad en maze y se realizaron seis testeos por medio 
 - Poner FAQ's en la parte de footer
 - Revisar colores
 - Agregar carrito de compras.
+
+#### Soluciones 
+
+<img src="">
+
+<img src="">
+
+<img src="">
+
+<img src="">
+
+<img src="">
 
 ## 4. Entregables
 
