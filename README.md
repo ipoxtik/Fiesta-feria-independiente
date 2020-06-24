@@ -155,55 +155,50 @@ Hola! Somos Fiesta y lo que más nos emociona es celebrar tu talento, el arte, l
 
 Se realizó testeo de usabilidad en maze y se realizaron seis testeos por medio de Zoom, donde obtuvimos los siguientes hallazgos:
 
-- Tipos de letra diferentes,
-- Colores no viables.
 - Organización de catálogo adecuada.
-- Meter más espacio entre elementos.
-- Les gustan los lives
 - Dar prioridad a cursos y talleres.
 - Desea interactuar con talleristas en los lives.
 - Iniciar sesión también con facebook.
 - Es intuitiva y fácil de usar
-- Ordenar menu y priorizar elementos
-- Poner FAQ's en la parte de footer
-- Revisar colores
 - Agregar carrito de compras.
-- Destacar cursos y talleres
-- No le gusta fondo
-- Mucho scroll
 - Destacar redes sociales
-- Le gusta la organización de las categorías
-- Tipografía
-- Le parece importante y genial la casa del artista
-- Le parece interesante el live
-- Limita solo entrar a instagram
 - Especificar cuanto tiempo tarda el delivery
-- Si hay costo deberían agregarlo en el pago
 - Es importante dar importancia a la situación por COVID
 - La casa del artista es importante, permite conocerlo como en Fiesta! Presencial
-- Todas las secciones de la nav bar hablan por si mismas.
 - La pasarela de pago es muy clara.
 - Es muy bonita, las palabras que usan son las de Fiesta!
 
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Hallazgos.jpg" width="550">
 #### Soluciones 
 
-<img src="">
+En nuestro banner a partir del feedback de nuestros tester, decidimos modificarlo para darle una imagen más atractiva visualmente, modificando espacios, poniendo marco a las imágenes y diferenciando por colores.
 
-<img src="">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/solucion_banner.png" width="400">
 
-<img src="">
+En la parte de eventos modificamos el diseño visual de nuestro calendario y arreglamos el UX writing para que pudiese ser más entendible por los usuarios, adicional a que se busca invitarlos a formar parte de la comunidad mientras aprenden.
 
-<img src="">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/solucion_calendario.jpeg">
 
-<img src="">
+En catálogo se decidió agregar la interacción también vía WhatsApp e Instagram, adicional a que se les permite interactuar al dar click con más detalles no solo de las piezas, también del proyecto.
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/solucion_cat%C3%A1logo.jpeg">
 
-<img src="">
+En FAQ's se agregó el botón "Volver al home" con la finalidad de que los usuarios puedan regresar a la página principal más facilmente. 
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/solucion_faqs.jpeg">
 
-<img src="">
+Se arregló el detalle de registro en la parte inferior para darle más importancia visual.
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/solucion_inicio_sesi%C3%B3n.jpeg">
 
-<img src="">
+En los lives se agrega la interacción en tiempo real solo agregando un nombre y escribiendo el comentario.
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/solucion_live.jpeg">
 
-<img src="">
+Se mejora la pasarela de pago, se le deja mensaje informativo sobre los días que tardará en llegar su pedido, se le indica precio de delivery, de forma visual pueden observarse las formas de pago.
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/solucion_pagos.jpeg">
+
+En el perfil del artista se le da un espacio en la parte izquierda para hablar de él y su proceso, también se agrega la historia del proyecto, se muestran las piezas y se agregan las redes sociales.
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/solucion_perfil_art.jpeg">
+
+En la parte de registro se indica de forma más específica que tipo de imagen se le solicita, se agrega mensaje amigable invitando a formar parte de Fiesta! y se mejora UX writing en las preguntas.
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/soluci%C3%B3n_registro.jpeg">
 
 ## 4. Entregables
 
