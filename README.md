@@ -129,7 +129,7 @@ Al momento de realizar nuestro diseño, planteamos como mejor opción una págin
 
 #### Insights
 
-"En Fiesta! celebaramos la valentía de crear"
+"En Fiesta celebramos la valentía de crear, porque hay mucho sacrificio detrás de lo hecho a mano"
 "Fiesta! se queda en ti, porque lo bueno se vive más de una vez"
 
 Ambos insights fueron desarrollados a partir de la información recabada con los entrevistas. Nos concentramos en verificar cuales eran los puntos fuertes de Fiesta! que se podrían mantener dentro de la plataforma aunque también visualizamos las áreas de oportunidad, desarrollando así dos ideas principales, basadas en artistas y visitantes.
@@ -223,7 +223,7 @@ Puedes visualizar nuestro prototipo en alta fidelidad en este [link](https://www
 
 ### Presentación
 
-En esta [presentación]() conocerás nuestro proceso de diseño y objetivos de aprendizaje.
+En esta [presentación](https://www.canva.com/design/DAD_is_Y1ys/OwyfHjr5xp4bQRyghrHv_Q/view#1) conocerás nuestro proceso de diseño y objetivos de aprendizaje.
 
 ### Vídeo presentación de prototipo
 
