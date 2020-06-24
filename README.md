@@ -168,13 +168,13 @@ Se realizó testeo de usabilidad en maze y se realizaron seis testeos por medio 
 
 - Organización de catálogo adecuada.
 - Dar prioridad a cursos y talleres.
-- Desea interactuar con talleristas en los lives.
+- Desea interactuar con los expositores en los lives.
 - Iniciar sesión también con facebook.
 - Es intuitiva y fácil de usar
-- Agregar carrito de compras.
+- Agregar carrito de compras, esta se implementará a futuro en cuanto la plataforma esté funcionando al cien.
 - Destacar redes sociales
 - Especificar cuanto tiempo tarda el delivery
-- Es importante dar importancia a la situación por COVID
+- Es necesario dar importancia a la situación por COVID
 - La casa del artista es importante, permite conocerlo como en Fiesta! Presencial
 - La pasarela de pago es muy clara.
 - Es muy bonita, las palabras que usan son las de Fiesta!
