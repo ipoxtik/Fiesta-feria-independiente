@@ -227,7 +227,7 @@ En esta [presentación]() conocerás nuestro proceso de diseño y objetivos de a
 
 ### Vídeo presentación de prototipo
 
-¿Quieres ver como funciona nuestra web app por medio de nuestros lineamientos? En este [vídeo]() te presentamos nuestra idea.
+¿Quieres ver como funciona nuestra web app por medio de nuestros lineamientos? En este [vídeo](https://www.loom.com/share/2fcd2f8c0c9843fab723bca12a5c7ab0) te presentamos nuestra idea.
 
 ## 5. Conclusiones
 
