@@ -197,6 +197,14 @@ Se realizó testeo de usabilidad en maze y se realizaron seis testeos por medio 
 
 <img src="">
 
+<img src="">
+
+<img src="">
+
+<img src="">
+
+<img src="">
+
 ## 4. Entregables
 
 ### Diseño de la aplicación para desktop
