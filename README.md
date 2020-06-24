@@ -168,6 +168,22 @@ Se realizó testeo de usabilidad en maze y se realizaron seis testeos por medio 
 - Poner FAQ's en la parte de footer
 - Revisar colores
 - Agregar carrito de compras.
+- Destacar cursos y talleres
+- No le gusta fondo
+- Mucho scroll
+- Destacar redes sociales
+- Le gusta la organización de las categorías
+- Tipografía
+- Le parece importante y genial la casa del artista
+- Le parece interesante el live
+- Limita solo entrar a instagram
+- Especificar cuanto tiempo tarda el delivery
+- Si hay costo deberían agregarlo en el pago
+- Es importante dar importancia a la situación por COVID
+- La casa del artista es importante, permite conocerlo como en Fiesta! Presencial
+- Todas las secciones de la nav bar hablan por si mismas.
+- La pasarela de pago es muy clara.
+- Es muy bonita, las palabras que usan son las de Fiesta!
 
 #### Soluciones 
 
@@ -206,6 +222,6 @@ Delivery
 Método de pago
 
 ***
-_Proyecto realizado el día 16/06/2020 Por Andrea Aguilar, Sonia Cortez y Franccesca Luna._
+_Proyecto realizado el día 26/06/2020 Por Andrea Aguilar, Sonia Cortez y Franccesca Luna._
 
 _Laboratoria, UX CDMX009-LIM012._
