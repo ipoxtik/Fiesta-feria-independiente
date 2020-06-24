@@ -38,8 +38,6 @@ Buscando dentro de ambos objetivos mantener el valor y la interacción humana, c
 ## 3. Proceso UX
 ### 3.1 Descubrimiento e investigación
 
-
-
 **El reto:**
 ***"las expectativas que tenemos si este proyecto funciona, es poder llevarlo a cabo y hacer algo chevere"***, se planea mantener la experiencia de Fiesta! digital lo más fiel al proyecto presencial, ayudar al artista en difusión, proceso de venta y obtener una plataforma dinámica y alegre.
 El objetivo general es promover el arte independiente y el comercio nacional, cubrir al máximo nivel posible las necesidades de los artistas y los visitantes, trabajar con métodos de pago ya existentes, lograr participación en el mercado empresarial y lograr sustentabilidad en la plataforma.
@@ -58,14 +56,14 @@ Tenemos fé en este proyecto a pesar de la situación generada a partir del COVI
 **Historias de usuario:**
 |Cómo|Quiero|Para|
 |:----|:---|:---:|
-| Dueñx del producto | Ingresar a mi plataforma | Gestionar información, hacer publicaciones de anuncios |
-| Dueñx del producto | Ingresar a mi plataforma | Administrar las temáticas: Color, imagenes, mapa |
-| Dueñx del producto | Ingresar a mi plataforma | Guiar a los artesanos |
-| Artesanx nuevx | Postularme | Formar parte de Fiesta! |
-| Artesanx nuevx | Iniciar sesión | Entrar a la plataforma |
-| Artesanx nuevx | Ingresar | Crear su perfil/stand |
-| Visitante | Ver catálogo | Comprar algun producto |
+| Dueñx | Ingresar a plataforma | Gestionar información, hacer publicaciones de anuncios |
+| Dueñx | Ingresar a plataforma | Administrar las temáticas: Color, imagenes, mapa |
+| Dueñx | Ingresar a plataforma | Guiar a los artesanos |
+| Artista | Postular | Formar parte de Fiesta! |
+| Artista | Iniciar sesión | Entrar a la plataforma |
+| Artista | Ingresar | Crear su perfil/stand |
 | Visitante | Ingresar al Fiesta! | Conocer nuevos eventos |
+| Visitante | Ver catálogo | Comprar algun producto |
 | Visitante | Contactar a artesano | Conocer más productos, resolver dudas |
 
 #### 3.1.1 Entrevista con el cliente
@@ -73,35 +71,15 @@ Tenemos fé en este proyecto a pesar de la situación generada a partir del COVI
 Se realizaron varias entrevistas con nuestras clientas (Malu y Elo) las cuales tuvieron total apertura a resolver nuestras dudas, implementar más ideas y desarrollar a la par de nosotras este proyecto, sin olvidar que también recurrimos a ellas para obtener feedback e informar paso a paso como evolucionó este proyecto el cual, lejos de ser solo de ellas se convirtió en algo de todas nosotras.
 Dentro de las tres entrevistas realizadas obtuvimos datos y citas sumamente importantes que nos ayudaron a fortalecer y mejorar nuestro prototipo y el proceso.
 
-- Se busca que los artesanos sepan que lo que hacen es valorado en Fiesta! 
-- Mantener comunicación con artesanos de la manera más eficiente posible, priorizando redes sociales o correo.
-- Hay apertura a probar ideas e innovar.
-- Se busca apoyar a todos los artesanos posibles.
-- Existe intención de expansión a otros departamentos. "Afuera hay cosas muy bonitas y a veces por estar en la misma provincia la gente lo ve como algo del día a día"
-- Se evaluará el tema delivery, se busca que sea una sola empresa que garantice bioseguridad, entregas a tiempo y buen servicio.
-- A pesar de mantenerse en un contexto digital les gustaría acoplar las temáticas a las festividades de la temporada, tomando por temática inicial la fiesta patria para junio y una fiesta ilustrada.
-- Se espera una mayor cantidad de emprendedores en digital, sin embargo el catálogo de artesanos se irá rotando conforme a la temática.
-- Se mantendrán las mismas reglas: no productos importados, no second hand, evitaremos alimentos y bebidas.
-- Se plantea tener un publico empresarial.
-- Usar métodos de pago existentes.
-- Solicita definir la experiencia del usuario tanto para visitantes como para artesanos. 
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Clientes.png" width="400">
 
 #### 3.1.2 Entrevistas con usuarios
 
 Se realizaron once entrevistas en total, seis a visitantes de Fiesta! presencial y cinco artesanos, todos nos brindaron información valiosa para comprender mejor el contexto, saber que es lo que más aprecian de este proyecto y que les gustaría ver para poder seguir manteniendo la escencia lo más auténtica posible a lo que era en su modalidad original. Entre todos los hallazgos encontrados estos fueron los más relevantes.
 
-  - No se encuentran muchas ferias en Internet.
-  - Encuentras artículos únicos.
-  - Los precios responden a la calidad de lo que venden.
-  - Se suele buscar a los vendedores en Instagram, siguen su actividad y se les compra directamente.
-  - La mayoria de los usuarios se tuvieron que adaptar a las compras en linea a partir de la pandemia, realizando todo tipo de compras online, desde productos básicos hasta gustos peculiares.
-  - Se aprecia mucho la historia sobre el producto, es un factor importante para cerrar la venta.
-  - En Fiesta! resaltan el valor del artesano.
-  - Existe una conexión muy cercana entre usuarios y artesanos.
-  - El proceso de aceptación de artesanos es muy accesible, sencilla e intuitiva.
-  - Las ferias son un punto de venta importante, en algunos casos se visualiza hasta un 300% de aumento de ventas, ganancias de los /S 1300 a /S 1500.
-  - Se pide priorizar el apoyo a las marcas independientes.
-  - Los artesanos disfrutan de mostrar el proceso de sus productos.
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Artistas.png" width="400">
+  
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Visitantes.png" width="400">
 
 #### 3.1.3 Benchmark
 
@@ -137,7 +115,7 @@ Se realizaron once entrevistas en total, seis a visitantes de Fiesta! presencial
 
 Al momento de realizar nuestro diseño, planteamos como mejor opción una página web responsiva dónde los usuarios pudieran ingresar, registrarse y tener su propio seguimiento pero al mismo tiempo se busca mantener la comunicación entre el equipo de Fiesta! así que se planea notificar vía correo electrónico cualquier punto importante sobre su proceso de compra (para usuarios) o de aceptación (para artistas), también se busca trabajar con métodos de pago ya existentes, un delivery que cubra las necesidades de tiempo/eficacia/seguridad con todos los artistas y también por medio de otras propuestas integradas se plantea mantener la comunidad y comunicación entre los visitantes-artistas y equipo Fiesta!-artistas.
 
-**Insights**
+#### Insights
 
 "En Fiesta! celebaramos la valentía de crear"
 "Fiesta! se queda en ti, porque lo bueno se vive más de una vez"
@@ -146,16 +124,15 @@ Ambos insights fueron desarrollados a partir de la información recabada con los
 LOS BUENOS MOMENTOS NUNCA SE OLVIDAN, porque fiesta está cargada de interacción y amistad, todos se sienten como comunidad y recuerdan lo compartido con mucha alegría. Porque lo primero que expresan es lo bien que la pasaron, los amigos hechos, dejando en un segundo plano lo económico. Y esa es la esencia real de fiesta.
 EL VALOR HUMANO ES MÁS IMPORTANTE QUE EL ECONÓMICO, porque para Fiesta! cada artesano es un héroe, un ser humano valioso que a pesar de las dificultades busca salir adelante. Porque los artistas perciben el cariño y se sienten orgullosos de quienes son. Porque la principal motivación de Fiesta, es apoyar a sus artistas.
 
-**Storytelling**
+#### Storytelling
 
 Hola! Somos Fiesta y lo que más nos emociona es celebrar tu talento, el arte, la vida! Que seas feliz es muy importante para nosotras, por eso este espacio es para ti, para que sigamos compartiendo los buenos momentos, el amor por lo hecho a mano, las historias de pasión detrás de tu emprendimiento y las ganas de que la Fiesta continúe.
 
-**Árbol de contenidos**
+#### Árbol de contenidos
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/arbolcontenido.jpg" width="750">
 
-**user flow**
-
+#### user flow
 
 **Artesanos**
 
@@ -165,17 +142,17 @@ Hola! Somos Fiesta y lo que más nos emociona es celebrar tu talento, el arte, l
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/userflow%20us.jpg" width="600">
 
-**Wireframe**
+#### Wireframe
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Wireframe.png">
 
-**Muckup**
+#### Muckup
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Muckup.png">
 
-## USER TESTING.
+#### User testing
 
-Se realizó testeo de usabilidad en maze y se realizaron tres testeos por medio de Zoom, donde obtuvimos los siguientes hallazgos:
+Se realizó testeo de usabilidad en maze y se realizaron seis testeos por medio de Zoom, donde obtuvimos los siguientes hallazgos:
 
 - Tipos de letra diferentes,
 - Colores no viables.
@@ -190,8 +167,6 @@ Se realizó testeo de usabilidad en maze y se realizaron tres testeos por medio 
 - Poner FAQ's en la parte de footer
 - Revisar colores
 - Agregar carrito de compras.
-
-
 
 ## 4. Entregables
 
@@ -209,7 +184,7 @@ En esta [presentación]() conocerás nuestro proceso de diseño y objetivos de a
 
 ## 5. Conclusiones
 
-**Sobre obejtivos de aprendizaje**
+**Sobre objetivos de aprendizaje**
 
 **Sobre proyecto en general**
 
