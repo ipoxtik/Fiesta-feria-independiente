@@ -86,6 +86,8 @@ Se realizaron once entrevistas en total, seis a visitantes de Fiesta! presencial
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/benchmark%20fiesta%20_page-0001.jpg">
 
+Documento completo [aquí](https://docs.google.com/document/d/1-ED1maykkK98mdegawkya7kKN4JDZnTeIew9DvBHIKQ/edit?usp=sharing)
+
 ### 3.2 Síntesis y definición
 
 #### 3.2.1 Affinity map
@@ -111,6 +113,15 @@ Se realizaron once entrevistas en total, seis a visitantes de Fiesta! presencial
 **Visitante**
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Journey%20map%20Visitante.png">
+
+
+Videos de entrevistas:
+
+Entrevistas a [Artistas](https://drive.google.com/drive/folders/1xBGHdck1qdzmXaw5-9xACOwEFNLnqT7k?usp=sharing)
+
+Entrevistas a [Clientes](https://drive.google.com/drive/folders/1AKHYZKpkJNvJZ10-v6wd_U9BKTGvW-3i?usp=sharing)
+
+
 
 ### 3.3 Ideación y prototipado
 
@@ -169,11 +180,12 @@ Se realizó testeo de usabilidad en maze y se realizaron seis testeos por medio 
 - Es muy bonita, las palabras que usan son las de Fiesta!
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Hallazgos.jpg" width="550">
+
 #### Soluciones 
 
 En nuestro banner a partir del feedback de nuestros tester, decidimos modificarlo para darle una imagen más atractiva visualmente, modificando espacios, poniendo marco a las imágenes y diferenciando por colores.
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/solucion_banner.png" width="400">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/solucion_banner.png" width="700">
 
 En la parte de eventos modificamos el diseño visual de nuestro calendario y arreglamos el UX writing para que pudiese ser más entendible por los usuarios, adicional a que se busca invitarlos a formar parte de la comunidad mientras aprenden.
 
@@ -200,6 +212,9 @@ En el perfil del artista se le da un espacio en la parte izquierda para hablar d
 En la parte de registro se indica de forma más específica que tipo de imagen se le solicita, se agrega mensaje amigable invitando a formar parte de Fiesta! y se mejora UX writing en las preguntas.
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/soluci%C3%B3n_registro.jpeg">
 
+En este link puedes visualizar nuestras entrevistas.
+[Click aquí](https://drive.google.com/drive/folders/1RWtEZMseHvILkKH_0AYCqvIHDEvYIJbG?usp=sharing)
+
 ## 4. Entregables
 
 ### Diseño de la aplicación para desktop
@@ -217,6 +232,14 @@ En esta [presentación]() conocerás nuestro proceso de diseño y objetivos de a
 ## 5. Conclusiones
 
 **Sobre objetivos de aprendizaje**
+
+User centricity
+Business mindset
+Research
+Síntesis
+Diseño del producto
+Comunicación
+Planificación
 
 **Sobre proyecto en general**
 
