@@ -233,19 +233,40 @@ En esta [presentación](https://www.canva.com/design/DAD_is_Y1ys/OwyfHjr5xp4bQRy
 
 **Sobre objetivos de aprendizaje**
 
-User centricity
-Business mindset
-Research
-Síntesis
-Diseño del producto
-Comunicación
-Planificación
+1. Hemos logrado entender cómo sintetizar y usar la información que obtuvimos de nuestra investigación, sin perder de vista los objetivos del cliente y las necesidades del usuario y entendiendo el modelo de negocio. 
 
-**Sobre proyecto en general**
+2. Logramos comunicarnos de manera activa y efectiva y nos dividimos el proyecto en tareas pequeñas para organizarnos mejor. 
 
-Decidimos anexar una opción para realizar podcast y por este medio nuestros artistas pudieran conectarse con su comunidad.
-Delivery
-Método de pago
+3. Desarrollamos, iteramos y ejecutamos guías de entrevista y testing. 
+
+4. Logramos realizar entrevistas a usuarios de manera empática, procurando no sesgar nuestras preguntas. 
+
+5. Logramos priorizar tareas y darles seguimiento. 
+
+6. Ejecutamos testeo de usabilidad de nuestro prototipo utilizando herramientas digitales. 
+
+7. Nuestro research fue de varias fuentes de información e identificamos los datos importantes para nuestro proyecto. 
+
+8. Aprendimos a armar patrones con la información obtenida y utilizar aquellos que iban con los objetivos de nuestro proyecto. 
+
+9. Realizamos hallazgos y los analizamos para obtener nuestros insights. 
+
+10. Realizamos nuestros journey map e identificamos los puntos de dolor en el flujo. 
+
+11. Brainstorming de multiples ideas que se adaptaban a nuestro proyecto. 
+
+12. Desarrollamos nuestros flujos de usuario de acuerdo a los objetivos de nuestro proyecto, uno por cada user persona. 
+
+13. Prototipamos en diferentes niveles de fidelidad, desde el papel hasta el prototipo en alta. 
+
+14. Vamos mejorando nuestro prototipo en alta, en base a los resultados de nuestros testings. 
+
+15. Logramos hacer presentaciones de cierre de sprint concretas y concisas, que comuniquen los puntos más importantes del proyecto. 
+
+16. Seleccionamos herramientas que nos ayudaban en cada etapa del proyecto.
+
+17. Diseñar nuestro prototipo elaborando guías de estilo y componentes.
+
 
 ***
 _Proyecto realizado el día 26/06/2020 Por Andrea Aguilar, Sonia Cortez y Franccesca Luna._
