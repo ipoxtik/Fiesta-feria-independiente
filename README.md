@@ -19,7 +19,7 @@ Consultoria UX para empresas en tiempos de COVID-19
 * [4 Entregables](###4-Entregables)
 * [5. Conclusiones](#5-conclusiones)
 
-## 1. Introducción
+# 1. Introducción
 
 Fiesta! Feria independiente, nace en junio de 2019 como un proyecto en apoyo a artistas locales de Perú con la finalidad de fomentar el consumo de la cultura, ayudar a emprendedores que realizan piezas para mantener su negocio a flote, incrementar ventas y tener un espacio donde puedan celebrar la comunión en un sentido personal.
 ***"Hacer algo a mano es un acto de valentía"*** es una de las tantas frases que se escucharon a lo largo de este proyecto, donde en conjunto con nuestras clientas buscábamos llevar a un contexto digital el proyecto de feria de artesanías buscando por este medio, un espacio donde el arte peruano pudiera mantenerse vigente a pesar de las circunstancias presentadas a partir de la contingencia por COVID-19.
@@ -27,7 +27,7 @@ El valor agregado de Fiesta! es que apoya en su totalidad a artistas locales, cu
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Presencial.jpg" width="500">
 
-## 2. Objetivos del proyecto
+# 2. Objetivos del proyecto
 
 El objetivo inicialmente planteado consiste en desarrollar una plataforma digital donde los artistas pudieran vender sus piezas en idea de una feria virtual, la cual tendría temática, se mantendría en espera de la llegada de visitantes y pudiese mantenerse la escencia original del proyecto presencial, posteriormente y con base a la investigación realizada se lograron plantear dos objetivos específicos:
     1. Conservar la experiencia de Fiesta! presencial de igual o mejor manera en Fiesta! digital.
@@ -36,8 +36,8 @@ Buscando dentro de ambos objetivos mantener el valor y la interacción humana, c
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/publicidad.jpg" width="450">
 
-## 3. Proceso UX
-### 3.1 Descubrimiento e investigación
+# 3. Proceso UX
+## 3.1 Descubrimiento e investigación
 
 **El reto:**
 ***"las expectativas que tenemos si este proyecto funciona, es poder llevarlo a cabo y hacer algo chevere"***, se planea mantener la experiencia de Fiesta! digital lo más fiel al proyecto presencial, ayudar al artista en difusión, proceso de venta y obtener una plataforma dinámica y alegre.
@@ -67,14 +67,14 @@ Tenemos fé en este proyecto a pesar de la situación generada a partir del COVI
 | Visitante | Ver catálogo | Comprar algun producto |
 | Visitante | Contactar a artesano | Conocer más productos, resolver dudas |
 
-#### 3.1.1 Entrevista con el cliente
+### 3.1.1 Entrevista con el cliente
 
 Se realizaron varias entrevistas con nuestras clientas (Malu y Elo) las cuales tuvieron total apertura a resolver nuestras dudas, implementar más ideas y desarrollar a la par de nosotras este proyecto, sin olvidar que también recurrimos a ellas para obtener feedback e informar paso a paso como evolucionó este proyecto el cual, lejos de ser solo de ellas se convirtió en algo de todas nosotras.
 Dentro de las tres entrevistas realizadas obtuvimos datos y citas sumamente importantes que nos ayudaron a fortalecer y mejorar nuestro prototipo y el proceso.
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Clientes.png" width="400">
 
-#### 3.1.2 Entrevistas con usuarios
+### 3.1.2 Entrevistas con usuarios
 
 Se realizaron once entrevistas en total, seis a visitantes de Fiesta! presencial y cinco artesanos, todos nos brindaron información valiosa para comprender mejor el contexto, saber que es lo que más aprecian de este proyecto y que les gustaría ver para poder seguir manteniendo la escencia lo más auténtica posible a lo que era en su modalidad original. Entre todos los hallazgos encontrados estos fueron los más relevantes.
 
@@ -82,29 +82,29 @@ Se realizaron once entrevistas en total, seis a visitantes de Fiesta! presencial
   
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Visitantes.png" width="400">
 
-#### 3.1.3 Benchmark
+### 3.1.3 Benchmark
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/benchmark%20fiesta%20_page-0001.jpg">
 
 Documento completo [aquí](https://docs.google.com/document/d/1-ED1maykkK98mdegawkya7kKN4JDZnTeIew9DvBHIKQ/edit?usp=sharing)
 
-### 3.2 Síntesis y definición
+## 3.2 Síntesis y definición
 
-#### 3.2.1 Affinity map
+### 3.2.1 Affinity map
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Afinitty%20map.jpg" width="500">
 
-#### 3.2.2 User persona
+### 3.2.2 User persona
 
 **Artista**
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/User%20persona%20Artesano.png">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/User%20persona%20Artesano.png" width="500">
 
 **Visitante**
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/User%20persona%20Visitante.png">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/User%20persona%20Visitante.png" width="500">
 
-#### 3.2.3 Customer journey map
+### 3.2.3 Customer journey map
 
 **Artista**
 
@@ -123,29 +123,31 @@ Entrevistas a [Clientes](https://drive.google.com/drive/folders/1AKHYZKpkJNvJZ10
 
 
 
-### 3.3 Ideación y prototipado
+## 3.3 Ideación y prototipado
 
 Al momento de realizar nuestro diseño, planteamos como mejor opción una página web responsiva dónde los usuarios pudieran ingresar, registrarse y tener su propio seguimiento pero al mismo tiempo se busca mantener la comunicación entre el equipo de Fiesta! así que se planea notificar vía correo electrónico cualquier punto importante sobre su proceso de compra (para usuarios) o de aceptación (para artistas), también se busca trabajar con métodos de pago ya existentes, un delivery que cubra las necesidades de tiempo/eficacia/seguridad con todos los artistas y también por medio de otras propuestas integradas se plantea mantener la comunidad y comunicación entre los visitantes-artistas y equipo Fiesta!-artistas.
 
-#### Insights
+### Insights
 
 "En Fiesta celebramos la valentía de crear, porque hay mucho sacrificio detrás de lo hecho a mano"
 
 "Fiesta! se queda en ti, porque lo bueno se vive más de una vez"
 
 Ambos insights fueron desarrollados a partir de la información recabada con los entrevistas. Nos concentramos en verificar cuales eran los puntos fuertes de Fiesta! que se podrían mantener dentro de la plataforma aunque también visualizamos las áreas de oportunidad, desarrollando así dos ideas principales, basadas en artistas y visitantes.
-*LOS BUENOS MOMENTOS NUNCA SE OLVIDAN*, porque fiesta está cargada de interacción y amistad, todos se sienten como comunidad y recuerdan lo compartido con mucha alegría. Porque lo primero que expresan es lo bien que la pasaron, los amigos hechos, dejando en un segundo plano lo económico. Y esa es la esencia real de fiesta.
-*EL VALOR HUMANO ES MÁS IMPORTANTE QUE EL ECONÓMICO*, porque para Fiesta! cada artesano es un héroe, un ser humano valioso que a pesar de las dificultades busca salir adelante. Porque los artistas perciben el cariño y se sienten orgullosos de quienes son. Porque la principal motivación de Fiesta, es apoyar a sus artistas.
 
-#### Storytelling
+**LOS BUENOS MOMENTOS NUNCA SE OLVIDAN**, porque fiesta está cargada de interacción y amistad, todos se sienten como comunidad y recuerdan lo compartido con mucha alegría. Porque lo primero que expresan es lo bien que la pasaron, los amigos hechos, dejando en un segundo plano lo económico. Y esa es la esencia real de fiesta.
+
+**EL VALOR HUMANO ES MÁS IMPORTANTE QUE EL ECONÓMICO**, porque para Fiesta! cada artesano es un héroe, un ser humano valioso que a pesar de las dificultades busca salir adelante. Porque los artistas perciben el cariño y se sienten orgullosos de quienes son. Porque la principal motivación de Fiesta, es apoyar a sus artistas.
+
+### Storytelling
 
 Hola! Somos Fiesta y lo que más nos emociona es celebrar tu talento, el arte, la vida! Que seas feliz es muy importante para nosotras, por eso este espacio es para ti, para que sigamos compartiendo los buenos momentos, el amor por lo hecho a mano, las historias de pasión detrás de tu emprendimiento y las ganas de que la Fiesta continúe.
 
-#### Árbol de contenidos
+### Árbol de contenidos
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/arbolcontenido.jpg" width="750">
 
-#### user flow
+### user flow
 
 **Artistas**
 
@@ -155,15 +157,15 @@ Hola! Somos Fiesta y lo que más nos emociona es celebrar tu talento, el arte, l
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/userflow%20us.jpg">
 
-#### Wireframe
+### Wireframe
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Wireframe.png">
 
-#### Muckup
+### Muckup
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Muckup.png">
 
-### 3.4 User testing
+## 3.4 User testing
 
 Se realizó testeo de usabilidad en maze y se realizaron seis testeos por medio de Zoom, donde obtuvimos los siguientes hallazgos:
 
@@ -182,7 +184,7 @@ Se realizó testeo de usabilidad en maze y se realizaron seis testeos por medio 
 
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Hallazgos.jpg" width="550">
 
-#### Soluciones 
+### Soluciones 
 
 En nuestro banner a partir del feedback de nuestros tester, decidimos modificarlo para darle una imagen más atractiva visualmente, modificando espacios, poniendo marco a las imágenes y diferenciando por colores.
 
@@ -223,21 +225,21 @@ En la parte de registro se indica de forma más específica que tipo de imagen s
 En este link puedes visualizar nuestras entrevistas.
 [Click aquí](https://drive.google.com/drive/folders/1RWtEZMseHvILkKH_0AYCqvIHDEvYIJbG?usp=sharing)
 
-## 4. Entregables
+# 4. Entregables
 
-### Diseño de la aplicación para desktop
+## Diseño de la aplicación para desktop
 
 Puedes visualizar nuestro prototipo en alta fidelidad en este [link](https://www.figma.com/proto/jZw4EdHcE1ihJe2miqPfme/UX-Consultancy?node-id=1%3A4)
 
-### Presentación
+## Presentación
 
 En esta [presentación](https://www.canva.com/design/DAD_is_Y1ys/OwyfHjr5xp4bQRyghrHv_Q/view#1) conocerás nuestro proceso de diseño y objetivos de aprendizaje.
 
-### Vídeo presentación de prototipo
+## Vídeo presentación de prototipo
 
 ¿Quieres ver como funciona nuestra web app por medio de nuestros lineamientos? En este [vídeo](https://www.loom.com/share/2fcd2f8c0c9843fab723bca12a5c7ab0) te presentamos nuestra idea.
 
-## 5. Conclusiones
+# 5. Conclusiones
 
 **Sobre objetivos de aprendizaje**
 
