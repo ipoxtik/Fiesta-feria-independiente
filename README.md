@@ -253,10 +253,13 @@ Usabilidad:
 A partir de los testeos por maze descubrimos que el tiempo promedio inicial para terminar el funnel de compra era de 364 segundos, sin embargo y a partir de los testeos siguientes logramos reducir el proceso a 170 segundos, disminuyendo los datos de la pasarela de pago, poniendo solo un método de pago con tarjeta y dando las opciones en una sola ventana para evitar tantos pasos.
 
 Funnel de conversión:
+
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Funnel.png" width="500">
 
-Promedio de ventas por mes
-Cantidad de artistas registrados en Fiesta!
+Se tienen dos métricas adicionales a mediano plazo.
+
+- Promedio de ventas por mes
+- Cantidad de artistas registrados en Fiesta!
 # 5. Conclusiones
 
 ## Objetivos de aprendizaje.
