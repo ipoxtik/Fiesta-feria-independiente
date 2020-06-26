@@ -192,24 +192,31 @@ En la parte de eventos modificamos el diseño visual de nuestro calendario y arr
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/solucion_calendario.jpeg" width="500">
 
 En catálogo se decidió agregar la interacción también vía WhatsApp e Instagram, adicional a que se les permite interactuar al dar click con más detalles no solo de las piezas, también del proyecto.
+
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/solucion_cat%C3%A1logo.jpeg" width="500">
 
 En FAQ's se agregó el botón "Volver al home" con la finalidad de que los usuarios puedan regresar a la página principal más facilmente. 
+
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/solucion_faqs.jpeg" width="500">
 
 Se arregló el detalle de registro en la parte inferior para darle más importancia visual.
+
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/solucion_inicio_sesi%C3%B3n.jpeg" width="500">
 
 En los lives se agrega la interacción en tiempo real solo agregando un nombre y escribiendo el comentario.
+
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/solucion_live.jpeg" width="500">
 
 Se mejora la pasarela de pago, se le deja mensaje informativo sobre los días que tardará en llegar su pedido, se le indica precio de delivery, de forma visual pueden observarse la forma de pago, anteriormente se había iterado con vaios métodos, sin embargo, por porte de un segundo testeo descubrimos que sería más sencillo limitar a un sólo método de forma inicial en lo que se genera mayor movimiento dentro de la página.
+
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/solucion_pagos.jpeg" width="500">
 
 En el perfil del artista se le da un espacio en la parte izquierda para hablar de él y su proceso, también se agrega la historia del proyecto, se muestran las piezas y se agregan las redes sociales.
+
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/solucion_perfil_art.jpeg" width="500">
 
 En la parte de registro se indica de forma más específica que tipo de imagen se le solicita, se agrega mensaje amigable invitando a formar parte de Fiesta! y se mejora UX writing en las preguntas.
+
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/soluci%C3%B3n_registro.jpeg" width="500">
 
 En este link puedes visualizar nuestras entrevistas.
