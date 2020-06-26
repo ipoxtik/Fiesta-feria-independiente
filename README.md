@@ -6,17 +6,17 @@ Consultoria UX para empresas en tiempos de COVID-19
 * [1. Introducción](#1-Introducción)
 * [2. Objetivos del Proyecto](#2-objetivos-del-proyecto)
 * [3. Proceso UX](#3-proceso-ux)
-  * [3.1 Descubrimiento e investigación](###3.1-Descubrimiento-e-investigación)
-    * [3.1.1 Entrevista con el cliente](####Entrevista-con-el-cliente)
-    * [3.1.2 Entrevistas con usuarios](####Entrevista-con-usuarios)
-    * [3.1.3 Benchmark](####Bechmarck)
-  * [3.2 Síntesis y definición](###3.2-Síntesis-y-definición)
-    * [3.2.1 Affinity map](####Affinity-map)
-    * [3.2.2 User persona](####User-persona)
-    * [3.2.3 Customer journey map](####Customer-journey-map)
-  * [3.3 Ideación y prototipado](###3.3-Ideación-y-prototipado)
-  * [3.4 User testing](###3.4-User-testing)
-* [4 Entregables](###4-Entregables)
+  * [3.1 Descubrimiento e investigación](##3.1-Descubrimiento-e-investigación)
+    * [3.1.1 Entrevista con el cliente](###Entrevista-con-el-cliente)
+    * [3.1.2 Entrevistas con usuarios](###Entrevista-con-usuarios)
+    * [3.1.3 Benchmark](###Bechmarck)
+  * [3.2 Síntesis y definición](##3.2-Síntesis-y-definición)
+    * [3.2.1 Affinity map](###Affinity-map)
+    * [3.2.2 User persona](###User-persona)
+    * [3.2.3 Customer journey map](###Customer-journey-map)
+  * [3.3 Ideación y prototipado](##3.3-Ideación-y-prototipado)
+  * [3.4 User testing](##3.4-User-testing)
+* [4 Entregables](##4-Entregables)
 * [5. Conclusiones](#5-conclusiones)
 
 # 1. Introducción
@@ -135,9 +135,9 @@ Al momento de realizar nuestro diseño, planteamos como mejor opción una págin
 
 Ambos insights fueron desarrollados a partir de la información recabada con los entrevistas. Nos concentramos en verificar cuales eran los puntos fuertes de Fiesta! que se podrían mantener dentro de la plataforma aunque también visualizamos las áreas de oportunidad, desarrollando así dos ideas principales, basadas en artistas y visitantes.
 
-**LOS BUENOS MOMENTOS NUNCA SE OLVIDAN**, porque fiesta está cargada de interacción y amistad, todos se sienten como comunidad y recuerdan lo compartido con mucha alegría. Porque lo primero que expresan es lo bien que la pasaron, los amigos hechos, dejando en un segundo plano lo económico. Y esa es la esencia real de fiesta.
+***Los buenos momentos nunca se olvidan***, porque fiesta está cargada de interacción y amistad, todos se sienten como comunidad y recuerdan lo compartido con mucha alegría. Porque lo primero que expresan es lo bien que la pasaron, los amigos hechos, dejando en un segundo plano lo económico. Y esa es la esencia real de fiesta.
 
-**EL VALOR HUMANO ES MÁS IMPORTANTE QUE EL ECONÓMICO**, porque para Fiesta! cada artesano es un héroe, un ser humano valioso que a pesar de las dificultades busca salir adelante. Porque los artistas perciben el cariño y se sienten orgullosos de quienes son. Porque la principal motivación de Fiesta, es apoyar a sus artistas.
+***El valor humano es más importante que el económico***, porque para Fiesta! cada artesano es un héroe, un ser humano valioso que a pesar de las dificultades busca salir adelante. Porque los artistas perciben el cariño y se sienten orgullosos de quienes son. Porque la principal motivación de Fiesta, es apoyar a sus artistas.
 
 ### Storytelling
 
