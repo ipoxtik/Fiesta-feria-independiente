@@ -242,6 +242,21 @@ En esta [presentación](https://www.canva.com/design/DAD_is_Y1ys/OwyfHjr5xp4bQRy
 
 ¿Quieres ver como funciona nuestra web app por medio de nuestros lineamientos? En este [vídeo](https://www.loom.com/share/2fcd2f8c0c9843fab723bca12a5c7ab0) te presentamos nuestra idea.
 
+## Proceso de diseño en miró
+
+Te presentamos nuestro [board] (https://miro.com/welcomeonboard/dBTHuDdwak6oFOMVZvb1lYpIpnE5Q3BMAHGUSZLmzQxjNatqgp1uiEW9lEd8jRlE) donde inició todo este trabajo. 
+
+## Métricas
+
+Usabilidad:
+
+A partir de los testeos por maze descubrimos que el tiempo promedio inicial para terminar el funnel de compra era de 364 segundos, sin embargo y a partir de los testeos siguientes logramos reducir el proceso a 170 segundos, disminuyendo los datos de la pasarela de pago, poniendo solo un método de pago con tarjeta y dando las opciones en una sola ventana para evitar tantos pasos.
+
+Funnel de conversión:
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Funnel.png">
+
+Promedio de ventas por mes
+Cantidad de artistas registrados en Fiesta!
 # 5. Conclusiones
 
 ## Objetivos de aprendizaje.
