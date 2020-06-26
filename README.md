@@ -130,11 +130,12 @@ Al momento de realizar nuestro diseño, planteamos como mejor opción una págin
 #### Insights
 
 "En Fiesta celebramos la valentía de crear, porque hay mucho sacrificio detrás de lo hecho a mano"
+
 "Fiesta! se queda en ti, porque lo bueno se vive más de una vez"
 
 Ambos insights fueron desarrollados a partir de la información recabada con los entrevistas. Nos concentramos en verificar cuales eran los puntos fuertes de Fiesta! que se podrían mantener dentro de la plataforma aunque también visualizamos las áreas de oportunidad, desarrollando así dos ideas principales, basadas en artistas y visitantes.
-LOS BUENOS MOMENTOS NUNCA SE OLVIDAN, porque fiesta está cargada de interacción y amistad, todos se sienten como comunidad y recuerdan lo compartido con mucha alegría. Porque lo primero que expresan es lo bien que la pasaron, los amigos hechos, dejando en un segundo plano lo económico. Y esa es la esencia real de fiesta.
-EL VALOR HUMANO ES MÁS IMPORTANTE QUE EL ECONÓMICO, porque para Fiesta! cada artesano es un héroe, un ser humano valioso que a pesar de las dificultades busca salir adelante. Porque los artistas perciben el cariño y se sienten orgullosos de quienes son. Porque la principal motivación de Fiesta, es apoyar a sus artistas.
+*LOS BUENOS MOMENTOS NUNCA SE OLVIDAN*, porque fiesta está cargada de interacción y amistad, todos se sienten como comunidad y recuerdan lo compartido con mucha alegría. Porque lo primero que expresan es lo bien que la pasaron, los amigos hechos, dejando en un segundo plano lo económico. Y esa es la esencia real de fiesta.
+*EL VALOR HUMANO ES MÁS IMPORTANTE QUE EL ECONÓMICO*, porque para Fiesta! cada artesano es un héroe, un ser humano valioso que a pesar de las dificultades busca salir adelante. Porque los artistas perciben el cariño y se sienten orgullosos de quienes son. Porque la principal motivación de Fiesta, es apoyar a sus artistas.
 
 #### Storytelling
 
@@ -146,13 +147,13 @@ Hola! Somos Fiesta y lo que más nos emociona es celebrar tu talento, el arte, l
 
 #### user flow
 
-**Artesanos**
+**Artistas**
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/userflow%20art.jpg" width="400">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/userflow%20art.jpg">
 
 **Visitantes**
 
-<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/userflow%20us.jpg" width="400">
+<img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/userflow%20us.jpg">
 
 #### Wireframe
 
