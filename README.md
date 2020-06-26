@@ -40,6 +40,7 @@ Buscando dentro de ambos objetivos mantener el valor y la interacción humana, c
 ## 3.1 Descubrimiento e investigación
 
 **El reto:**
+
 ***"las expectativas que tenemos si este proyecto funciona, es poder llevarlo a cabo y hacer algo chevere"***, se planea mantener la experiencia de Fiesta! digital lo más fiel al proyecto presencial, ayudar al artista en difusión, proceso de venta y obtener una plataforma dinámica y alegre.
 El objetivo general es promover el arte independiente y el comercio nacional, cubrir al máximo nivel posible las necesidades de los artistas y los visitantes, trabajar con métodos de pago ya existentes, lograr participación en el mercado empresarial y lograr sustentabilidad en la plataforma.
 
@@ -48,6 +49,7 @@ El objetivo general es promover el arte independiente y el comercio nacional, cu
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Modelo%20de%20negocio.jpg" width="500">
 
 **Contexto actual:**
+
 Tenemos fé en este proyecto a pesar de la situación generada a partir del COVID-19 se ha logrado sostener la venta de productos artesanales en varias partes del país, incluso varios artistas comentaron que sus envíos han aumentado a partir de la coyuntura. Se busca continuar operaciones, seguir obtentiendo ingresos y apoyar a los pequeños empresarios.
 
 **Scope canvas**
@@ -55,6 +57,7 @@ Tenemos fé en este proyecto a pesar de la situación generada a partir del COVI
 <img src="https://github.com/AndyyAg/ux-consultancy/blob/master/img/Scope%20canvas.jpg">
 
 **Historias de usuario:**
+
 |Cómo|Quiero|Para|
 |:----|:---|:---:|
 | Dueñx | Ingresar a plataforma | Gestionar información, hacer publicaciones de anuncios |
@@ -241,7 +244,7 @@ En esta [presentación](https://www.canva.com/design/DAD_is_Y1ys/OwyfHjr5xp4bQRy
 
 # 5. Conclusiones
 
-**Sobre objetivos de aprendizaje**
+## Objetivos de aprendizaje.
 
 1. Hemos logrado entender cómo sintetizar y usar la información que obtuvimos de nuestra investigación, sin perder de vista los objetivos del cliente y las necesidades del usuario y entendiendo el modelo de negocio. 
 
